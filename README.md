@@ -28,7 +28,7 @@
 
 # Acknowledgement 
 
-This project was developed under the commission of ShangDa Co., Ltd., led by Jack, in collaboration with Kevin and Jamie. Jack serves as the project manager responsible for project direction and frontend development, Kevin handles backend development and process design, while Jamie is responsible for full-stack development.
+This project was developed under the commission of ShangDa Co., Ltd., led by Jack, in collaboration with Kevin and Jamie. Jack serves as the project manager responsible for project direction and full-stack development, Kevin handles backend development and process design, while Jamie is responsible for forntend development.
 Please feel free to contect [me](kevin0980365799.work@gmail.com) for any further questions.
 
 # License
